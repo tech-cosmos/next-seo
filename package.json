@@ -1,5 +1,5 @@
 {
-  "name": "@tech-cosmos/next-seo",
+  "name": "@techcosmos/next-seo",
   "version": "5.5.0",
   "description": "SEO plugin for Next.js projects",
   "source": "src/index.tsx",
